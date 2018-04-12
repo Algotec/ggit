@@ -77,7 +77,7 @@
     "qunit-promises": "0.2.0",
     "rocha": "2.5.0",
     "schema-shot": "1.9.0",
-    "semantic-release": "8.2.3",
+    "semantic-release": "15.1.7",
     "simple-commit-message": "3.3.2",
     "sinon": "4.4.2",
     "snap-shot-it": "4.0.1",
